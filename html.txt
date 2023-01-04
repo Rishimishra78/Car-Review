@@ -1,0 +1,29 @@
+<DOCTYPE html>
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <h1>This Page For Car Lovers</h1>
+  <p id=search> Car Name:<input/>
+    <button>Search</button></p>
+  <h2>Ths is treending car of the year-</h2>
+  <img src="https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Thar/8076/1601635839903/front-left-side-47.jpg?tr=w-135"height=500" alt="THIS IS THAR"/>
+  <h3>This the car which INDIAN people bye much-</h3>
+  <ol>
+  <li><p class="name">Dzire - Maruti Suzuki Dzire Price<br><a href="https://www.cardekho.com/maruti/swift-dzire">if you want to buy click here</a></p>
+ <img src="https://auto.economictimes.indiatimes.com/files/retail_files/dzire-1502361962-prod-var.png"width="30%"/>
+<div> <li> <p class="name">Maruti Alto<br><a href="https://www.carwale.com/maruti-suzuki-cars/alto/">If you want to buy click here</a></p>
+   <img src="https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-profile-shots/alto-800/alto800_blazing_red/alto800_blazing_red_new.ashx" width=30%/> </div>
+   <div><li><p class="name">Mahindra Scorpio <br><a href="https://auto.mahindra.com/suv/scorpio">If you want to buy click here</a></p>
+   <img src="https://i.cdn.newsbytesapp.com/images/l7120210228155712.jpeg"width=30%/></ol>
+                                                                          <h3>These Car at the Range of 20lk-50lk</h3></div>
+                                                                 <ol>
+<li><p class="name">Hyundai Elantra<br><a href="https://www.carwale.com/hyundai-cars/elantra/">If you want buy click here</a></p>
+ <img src="https://images.carandbike.com/car-images/colors/hyundai/elantra/hyundai-elantra-phantom-black.png?v=1570086795"width=30% />
+<div><li><p class="name">Toyota Fortuner<br><a href="https://www.carwale.com">If you want to buy click here</a></p>
+  <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202006/Fortuner_0.jpeg?LD7FdfBQeV3u2nB8SVfH2nSybZj1QW8P&size=770:433"width="30%"/>  </div><div>    <li><p class="name">Innova<br><a href="https://mcmscache.epapr.in/post_images/website_300/post_19343285/thumb.jpg">If you wnt to buy click here</a></p>
+  <img src="https://mcmscache.epapr.in/post_images/website_300/post_19343285/thumb.jpg"width=30%/></div>
+                                                                                                                                                     
+                                                           
+                                                                              
+                                                                                                                 
+                                                                         

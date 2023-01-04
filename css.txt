@@ -1,0 +1,39 @@
+body{
+  background-color:		#e0ffff;
+}
+h1{
+  text-align:center;
+  background-color:#f5f5dc;
+  color:	#000080;
+}
+#search{
+  text-align:center;
+  font-size:120%;
+  font-weight:bold;
+
+}
+button{
+  font-weight:bold;
+  background-color:	#ffa500;
+}
+button:active{
+  background-color:#98fb98;
+}
+input:hover{
+  background-color:#98fb98;
+}
+h1,h2,h3{
+  font-size:170%
+}
+h2,h3{
+  color:#c71585;
+}
+li{
+  font-weight:bold;
+}
+.name{
+  color:	#800000;
+}
+p{
+ txt-align:left;
+}
